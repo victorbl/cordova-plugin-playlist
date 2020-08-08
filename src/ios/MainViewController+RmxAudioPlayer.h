@@ -7,9 +7,9 @@
 #ifndef MainViewController_RmxAudioPlayer_h
 #define MainViewController_RmxAudioPlayer_h
 
-#import "MainViewController.h"
+#import "CDVViewController.h"
 
-@interface MainViewController (RmxAudioPlayer)
+@interface CDVViewController (RmxAudioPlayer)
 
 @end
 
